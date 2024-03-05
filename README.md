@@ -11,3 +11,6 @@ git checkout -b "feature1"
         ## list all branches
 git branch
 
+        ## merge the feature1 branch into the main branch
+git merge feature1
+
